@@ -27,7 +27,7 @@
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -36,6 +36,14 @@
 </v>
 <v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
+<v t="leo.20181008004541.1" a="E"><vh>第一週</vh>
+<v t="leo.20181008004541.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181008004541.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181008004541.4" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181008004541.5"><vh>內容</vh></v>
 </v>
 </v>
 </v>
@@ -127,6 +135,8 @@ vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
 
 ### 虎科大機械設計工程系
+
+### 40623240何冠均
 
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
@@ -325,6 +335,42 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181008004541.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181008004541.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181008004541.3">### Week 1
+
+* 內容
+
+</t>
+<t tx="leo.20181008004541.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181008004541.5">### 課程影片：
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
