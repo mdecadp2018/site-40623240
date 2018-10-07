@@ -370,7 +370,7 @@ make.start()
 </t>
 <t tx="leo.20181008004541.5">### 課程影片：
 
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://www.youtube.com/watch?v=Io0fBr1XBUA&amp;index=8&amp;list=RDgCYcHz2k5x0" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
