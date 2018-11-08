@@ -38,7 +38,7 @@
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20181008004541.1" a="E"><vh>第一週</vh>
+<v t="leo.20181008004541.1"><vh>第一週</vh>
 <v t="leo.20181008004541.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181008004541.3"><vh>內容</vh></v>
 </v>
@@ -86,7 +86,7 @@
 <v t="leo.20181108210926.5"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181108210943.1"><vh>第七週</vh>
+<v t="leo.20181108210943.1" a="E"><vh>第七週</vh>
 <v t="leo.20181108210943.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181108210943.3"><vh>內容</vh></v>
 </v>
@@ -445,11 +445,8 @@ make.start()
 
 * 內容
 1.ShareX 設定路徑及麥克風 截圖及錄影的功能
-
 2.ShareX 截圖及錄影的功能Zoomit 可以利用 Ctrl + 1 以 Zoomit 的功能放大螢幕，選擇畫面,，以畫筆標示重點，也可以結合 ShareX 的 Ctrl + PrintScreen  擷取圖片
-
 領取倉儲 :
-
 1. 先跟老師領取倉儲領取完畢後，就可以開始進行維護網誌
 2. 將內定 branch 設為 gh-pages
 3. 將作業倉儲 git clone 至近端後，在 Week9 前，自行掌握進度，每週拍攝操作實習影片，將教材內容與使用心得放入個人的網站、簡報與網誌中
@@ -653,9 +650,7 @@ make.start()
 
 因應處理：
 
-安裝 Fossil SCM
-
-啟動 Fossil SCM
+安裝 Fossil SCM  啟動 Fossil SCM
 
 使用 Fossil SCM 伺服網頁</t>
 <t tx="leo.20181108210943.4">&lt;section data-markdown&gt;
