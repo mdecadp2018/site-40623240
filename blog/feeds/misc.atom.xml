@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623240/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623240/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623240/blog/</id><updated>2018-10-01T11:00:00+08:00</updated><entry><title>2018 Fall 分組網誌第四週</title><link href="https://mdecadp2018.github.io/site-40623240/blog/2018-Fall-Project-Blog-w4.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>40623240</name></author><id>tag:mdecadp2018.github.io,2018-10-01:/site-40623240/blog/2018-Fall-Project-Blog-w4.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623240/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623240/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623240/blog/</id><updated>2018-10-22T11:00:00+08:00</updated><entry><title>2018 Fall 分組網誌第七週</title><link href="https://mdecadp2018.github.io/site-40623240/blog/2018-Fall-Project-Blog-w4.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>40623240</name></author><id>tag:mdecadp2018.github.io,2018-10-22:/site-40623240/blog/2018-Fall-Project-Blog-w4.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;h2&gt;課程影片：&lt;/h2&gt;
+&lt;p&gt;課程內容：&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;內容 上課前在登陸 Github 時，發現故障，無法使用，找出方法解決並探討問題
+影響範圍：&lt;/p&gt;
+&lt;p&gt;僅影響存儲在我們的MySQL數據庫中的網站元數據，例如問題和拉取請求 存儲庫數據不受影響，並且在整個事件期間一直可用)&lt;/p&gt;
+&lt;p&gt;因應處理：&lt;/p&gt;
+&lt;p&gt;安裝 Fossil SCM 啟動 Fossil SCM&lt;/p&gt;
+&lt;p&gt;使用 Fossil SCM 伺服網頁&lt;/p&gt;
+&lt;h2&gt;自評成績：&lt;/h2&gt;
+&lt;p&gt;70分&lt;/p&gt;</content><category term="2018Fall-w7"></category></entry><entry><title>2018 Fall 分組網誌第六週</title><link href="https://mdecadp2018.github.io/site-40623240/blog/2018-Fall-Project-Blog-w4.html" rel="alternate"></link><published>2018-10-15T11:00:00+08:00</published><updated>2018-10-15T11:00:00+08:00</updated><author><name>40623240</name></author><id>tag:mdecadp2018.github.io,2018-10-15:/site-40623240/blog/2018-Fall-Project-Blog-w4.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;課程內容：&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;將倉儲中的 flaskapp.py 更新至最新版本&lt;/p&gt;
+&lt;h2&gt;自評成績：&lt;/h2&gt;
+&lt;p&gt;70分&lt;/p&gt;</content><category term="2018Fall-w6"></category></entry><entry><title>2018 Fall 分組網誌第五週</title><link href="https://mdecadp2018.github.io/site-40623240/blog/2018-Fall-Project-Blog-w4.html" rel="alternate"></link><published>2018-10-08T11:00:00+08:00</published><updated>2018-10-08T11:00:00+08:00</updated><author><name>40623240</name></author><id>tag:mdecadp2018.github.io,2018-10-08:/site-40623240/blog/2018-Fall-Project-Blog-w4.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;課程內容：&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Design Intent is the practice of developing your project’s objectives and requirements even before working on your design. 設計意圖指在設計進行前, 必須完成之專案目的與需求確認&lt;/p&gt;
+&lt;p&gt;The more complex the geometry, the more we need to think about how we want to design the parts before just going ahead and making it. 幾何外型越複雜, 越需要在零件設計之前做好設計意圖的確認&lt;/p&gt;
+&lt;h2&gt;自評成績：&lt;/h2&gt;
+&lt;p&gt;70分&lt;/p&gt;</content><category term="2018Fall-w5"></category></entry><entry><title>2018 Fall 分組網誌第四週</title><link href="https://mdecadp2018.github.io/site-40623240/blog/2018-Fall-Project-Blog-w4.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>40623240</name></author><id>tag:mdecadp2018.github.io,2018-10-01:/site-40623240/blog/2018-Fall-Project-Blog-w4.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
 &lt;h2&gt;課程內容：&lt;/h2&gt;
 &lt;p&gt;介紹onshape模組&lt;/p&gt;
 &lt;h2&gt;自評成績：&lt;/h2&gt;
