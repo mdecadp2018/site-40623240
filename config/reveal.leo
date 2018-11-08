@@ -70,7 +70,7 @@
 <v t="leo.20181108210903.5"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181108210907.1"><vh>第五週</vh>
+<v t="leo.20181108210907.1" a="E"><vh>第五週</vh>
 <v t="leo.20181108210907.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181108210907.3"><vh>內容</vh></v>
 </v>
@@ -86,7 +86,7 @@
 <v t="leo.20181108210926.5"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181108210943.1" a="E"><vh>第七週</vh>
+<v t="leo.20181108210943.1"><vh>第七週</vh>
 <v t="leo.20181108210943.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181108210943.3"><vh>內容</vh></v>
 </v>
@@ -566,10 +566,10 @@ make.start()
 
 * 內容
 
-* Design Intent is the practice of developing your project’s objectives and requirements even before working on your design.
+ Design Intent is the practice of developing your project’s objectives and requirements even before working on your design.
 設計意圖指在設計進行前, 必須完成之專案目的與需求確認
 
-* The more complex the geometry, the more we need to think about how we want to design the parts before just going ahead and making it.
+The more complex the geometry, the more we need to think about how we want to design the parts before just going ahead and making it.
 幾何外型越複雜, 越需要在零件設計之前做好設計意圖的確認</t>
 <t tx="leo.20181108210907.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
