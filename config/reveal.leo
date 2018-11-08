@@ -38,7 +38,7 @@
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20181008004541.1"><vh>第一週</vh>
+<v t="leo.20181008004541.1" a="E"><vh>第一週</vh>
 <v t="leo.20181008004541.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181008004541.3"><vh>內容</vh></v>
 </v>
@@ -86,7 +86,7 @@
 <v t="leo.20181108210926.5"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181108210943.1" a="E"><vh>第七週</vh>
+<v t="leo.20181108210943.1"><vh>第七週</vh>
 <v t="leo.20181108210943.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181108210943.3"><vh>內容</vh></v>
 </v>
@@ -404,13 +404,12 @@ make.start()
 
 * 內容
 
-在github帳號下，新增一個New repository，名為 : 學號.github.io
+在github帳號下，新增一個New repository
+名為 : 學號.github.io
 
 1.將自己新增的倉儲與老師的倉儲 clone 下來綁定帳號及用 SciTE 確認是否正確
 
-2.用 git status 查看所有檔案目前的狀況，之後再  git add . &gt; git commit -m "initial add " &gt;git push ，將剛剛新增的檔案推上去
-
-3.開啟 python wsgi.py ，進入近端，更改標題名稱重複git status&gt; git add。&gt; git commit -m“在標題上添加名稱”&gt; git push後完成</t>
+2.用 git status 查看所有檔案目前的狀況，之後再  git add . &gt; git commit -m "initial add " &gt;git push ，將剛剛新增的檔案推上去</t>
 <t tx="leo.20181008004541.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
