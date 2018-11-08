@@ -86,7 +86,7 @@
 <v t="leo.20181108210926.5"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181108210943.1"><vh>第七週</vh>
+<v t="leo.20181108210943.1" a="E"><vh>第七週</vh>
 <v t="leo.20181108210943.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181108210943.3"><vh>內容</vh></v>
 </v>
@@ -406,15 +406,11 @@ make.start()
 
 在github帳號下，新增一個New repository，名為 : 學號.github.io
 
-將自己新增的倉儲與老師的倉儲 clone 下來
+1.將自己新增的倉儲與老師的倉儲 clone 下來綁定帳號及用 SciTE 確認是否正確
 
-綁定帳號及用 SciTE 確認是否正確
+2.用 git status 查看所有檔案目前的狀況，之後再  git add . &gt; git commit -m "initial add " &gt;git push ，將剛剛新增的檔案推上去
 
-用 git status 查看所有檔案目前的狀況，之後再  git add . &gt; git commit -m "initial add " &gt;git push ，將剛剛新增的檔案推上去
-
-開啟 python wsgi.py ，進入近端，更改標題名稱
-
-重複git status&gt; git add。&gt; git commit -m“在標題上添加名稱”&gt; git push後完成</t>
+3.開啟 python wsgi.py ，進入近端，更改標題名稱重複git status&gt; git add。&gt; git commit -m“在標題上添加名稱”&gt; git push後完成</t>
 <t tx="leo.20181008004541.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -428,7 +424,7 @@ make.start()
 </t>
 <t tx="leo.20181008004541.5">### 課程影片：
 
-&lt;iframe src="https://www.youtube.com/watch?v=Io0fBr1XBUA&amp;index=8&amp;list=RDgCYcHz2k5x0" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://youtu.be/ax2ZuPm3YXc" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20181108210748.1">&lt;section&gt;
 @others
@@ -449,24 +445,16 @@ make.start()
 <t tx="leo.20181108210748.3">### Week 2
 
 * 內容
-ShareX 設定路徑及麥克風
+1.ShareX 設定路徑及麥克風 截圖及錄影的功能
 
-ShareX 截圖及錄影的功能
-
-
-ShareX 截圖及錄影的功能Zoomit 可以利用 Ctrl + 1 以 Zoomit 的功能放大螢幕，選擇畫面,，以畫筆標示重點，也可以結合 ShareX 的 Ctrl + PrintScreen  擷取圖片
+2.ShareX 截圖及錄影的功能Zoomit 可以利用 Ctrl + 1 以 Zoomit 的功能放大螢幕，選擇畫面,，以畫筆標示重點，也可以結合 ShareX 的 Ctrl + PrintScreen  擷取圖片
 
 領取倉儲 :
 
-1. 先跟老師領取倉儲 mde.tw &gt; i &gt; Week1 &gt; https://classroom.github.com/a/fGqXU9kO  &gt; @mdecadp2018 &gt; https://github.com/mdecadp2018/site-40623203
+1. 先跟老師領取倉儲領取完畢後，就可以開始進行維護網誌
+2. 將內定 branch 設為 gh-pages
+3. 將作業倉儲 git clone 至近端後，在 Week9 前，自行掌握進度，每週拍攝操作實習影片，將教材內容與使用心得放入個人的網站、簡報與網誌中
 
-2. 領取完畢後，就可以開始進行維護網誌
-
-3. 將內定 branch 設為 gh-pages
-
-4. 將作業倉儲 git clone 至近端後，在 Week9 前，自行掌握進度，每週拍攝操作實習影片，將教材內容與使用心得放入個人的網站、簡報與網誌中
-
-若要在圖片加上有顏色的框，在 LEO 開啟 cmsimfly.leo &gt; syntaxhighlight 調整框線粗細及顏色
 </t>
 <t tx="leo.20181108210748.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -481,7 +469,7 @@ ShareX 截圖及錄影的功能Zoomit 可以利用 Ctrl + 1 以 Zoomit 的功能
 </t>
 <t tx="leo.20181108210748.5">### 課程影片：
 
-&lt;iframe src="https://www.youtube.com/watch?v=Io0fBr1XBUA&amp;index=8&amp;list=RDgCYcHz2k5x0" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://youtu.be/q_1Ht6CLPWA" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20181108210858.1">&lt;section&gt;
 @others
@@ -517,7 +505,7 @@ ShareX 截圖及錄影的功能Zoomit 可以利用 Ctrl + 1 以 Zoomit 的功能
 </t>
 <t tx="leo.20181108210858.5">### 課程影片：
 
-&lt;iframe src="https://www.youtube.com/watch?v=Io0fBr1XBUA&amp;index=8&amp;list=RDgCYcHz2k5x0" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://youtu.be/158Ir6Mni60" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20181108210903.1">&lt;section&gt;
 @others
@@ -539,15 +527,11 @@ ShareX 截圖及錄影的功能Zoomit 可以利用 Ctrl + 1 以 Zoomit 的功能
 
 * 內容
 
-創一個onshape的帳號
-可以利用這個來繪圖完成簡單的繪圖步驟
-
+創一個onshape的帳號可以利用這個來繪圖完成簡單的繪圖步驟
 指令打cd tmp &gt; cd site &gt;  python wsgi,py
 將網址複製下來進入近端修改blog
 
 修改結束利用 git add .  &gt; git commit -m " 還有 git push 將修改後的東西更新上去
-
-利用LEO開啟以下圖片的項目以修改網誌
 
 修改投影片以前有學過但是製作部落格第一次做但是過程類似所以比較簡單很快上手
 只是需要花時間去完成更新。</t>
@@ -564,7 +548,7 @@ ShareX 截圖及錄影的功能Zoomit 可以利用 Ctrl + 1 以 Zoomit 的功能
 </t>
 <t tx="leo.20181108210903.5">### 課程影片：
 
-&lt;iframe src="https://www.youtube.com/watch?v=Io0fBr1XBUA&amp;index=8&amp;list=RDgCYcHz2k5x0" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://youtu.be/nMU9bYx0vPc" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20181108210907.1">&lt;section&gt;
 @others
@@ -587,11 +571,9 @@ ShareX 截圖及錄影的功能Zoomit 可以利用 Ctrl + 1 以 Zoomit 的功能
 * 內容
 
 * Design Intent is the practice of developing your project’s objectives and requirements even before working on your design.
-
 設計意圖指在設計進行前, 必須完成之專案目的與需求確認
 
 * The more complex the geometry, the more we need to think about how we want to design the parts before just going ahead and making it.
-
 幾何外型越複雜, 越需要在零件設計之前做好設計意圖的確認</t>
 <t tx="leo.20181108210907.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -606,7 +588,7 @@ ShareX 截圖及錄影的功能Zoomit 可以利用 Ctrl + 1 以 Zoomit 的功能
 </t>
 <t tx="leo.20181108210907.5">### 課程影片：
 
-&lt;iframe src="https://www.youtube.com/watch?v=Io0fBr1XBUA&amp;index=8&amp;list=RDgCYcHz2k5x0" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://youtu.be/XZZXFytiRtM" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20181108210926.1">&lt;section&gt;
 @others
@@ -642,7 +624,7 @@ ShareX 截圖及錄影的功能Zoomit 可以利用 Ctrl + 1 以 Zoomit 的功能
 </t>
 <t tx="leo.20181108210926.5">### 課程影片：
 
-&lt;iframe src="https://www.youtube.com/watch?v=Io0fBr1XBUA&amp;index=8&amp;list=RDgCYcHz2k5x0" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://youtu.be/6ULAecjorvU" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20181108210943.1">&lt;section&gt;
 @others
@@ -663,18 +645,14 @@ ShareX 截圖及錄影的功能Zoomit 可以利用 Ctrl + 1 以 Zoomit 的功能
 <t tx="leo.20181108210943.3">### Week 7
 
 * 內容
-
 上課前在登陸 Github 時，發現故障，無法使用，找出方法解決並探討問題
 
 影響範圍：
 
-This incident only impacted website metadata stored in our MySQL databases, such as issues and pull requests ( 僅影響存儲在我們的MySQL數據庫中的網站元數據，例如問題和拉取請求 )
-
-Git repository data remains unaffected and has been available throughout the incident ( 存儲庫數據不受影響，並且在整個事件期間一直可用 )
+僅影響存儲在我們的MySQL數據庫中的網站元數據，例如問題和拉取請求
+ 存儲庫數據不受影響，並且在整個事件期間一直可用)
 
 因應處理：
-
-各計算機程序，電腦輔助設計與協同產品設計倉儲資料除了近端與Github端存放外，還必須同步到：https://about.gitlab.com/pricing/、https://bitbucket.org/product/pricing 以及自建區域網路上的Fossli SCM主機
 
 安裝 Fossil SCM
 
@@ -694,7 +672,7 @@ Git repository data remains unaffected and has been available throughout the inc
 </t>
 <t tx="leo.20181108210943.5">### 課程影片：
 
-&lt;iframe src="https://www.youtube.com/watch?v=Io0fBr1XBUA&amp;index=8&amp;list=RDgCYcHz2k5x0" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://youtu.be/WEsFrcuffOA" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
