@@ -38,8 +38,20 @@
 </v>
 </v>
 <v t="leo.20181108210858.1" a="E"><vh>第十二週</vh>
-<v t="leo.20181108210858.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20190614024420.1"><vh>分支(向下)</vh>
+<v t="leo.20190614024420.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20190614025319.1" a="E"><vh>1</vh>
+<v t="leo.20190614025319.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20181108210858.2" a="E"><vh>2</vh>
 <v t="leo.20181108210858.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20190614025352.1" a="E"><vh>3</vh>
+<v t="leo.20190614025352.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20190614025403.1" a="E"><vh>4</vh>
+<v t="leo.20190614025403.2"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20181108210903.1" a="E"><vh>第十三週</vh>
@@ -72,7 +84,7 @@
 <v t="leo.20190613213150.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -389,7 +401,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181008004541.3"># Week 10
+<t tx="leo.20181008004541.3">## Week 10
 
 
 
@@ -416,7 +428,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108210748.3"># Week 11
+<t tx="leo.20181108210748.3">## Week 11
 
 
 
@@ -444,11 +456,15 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108210858.3"># Week 12
+<t tx="leo.20181108210858.3">## Week 12
 
 
 
-討論分工內容和組員更新網站
+&lt;head&gt;
+
+&lt;img src="https://upload.cc/i1/2019/06/14/coZzgj.jpg"&gt;
+
+&lt;/head&gt;
 
 </t>
 <t tx="leo.20181108210903.1">&lt;section&gt;
@@ -467,7 +483,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108210903.3"># Week 13
+<t tx="leo.20181108210903.3">## Week 13
 
 
 
@@ -526,6 +542,10 @@ make.start()
 使用V-rep 進行手足球組合
 
 [手足球組合](https://www.youtube.com/watch?v=PEzSatdlIC4)
+
+[手足球模擬](https://www.youtube.com/watch?v=ph5AH93zvR4&amp;feature=youtu.be)
+
+
 </t>
 <t tx="leo.20181108210943.1">&lt;section&gt;
 @others
@@ -551,6 +571,8 @@ make.start()
 1.更新個人網站以及倉儲
 
 2.更改個人投影片
+
+
 
 </t>
 <t tx="leo.20190613213147.1">&lt;section&gt;
@@ -593,6 +615,98 @@ make.start()
 <t tx="leo.20190613213150.3"># Week 18
 
 
+
+</t>
+<t tx="leo.20190614024420.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190614024420.2">## Week 12
+
+
+
+1.討論分工內容和組員更新網站
+
+2.利用pandoc製作PDF
+
+&lt;head&gt;
+
+&lt;img src="https://upload.cc/i1/2019/06/14/8gYKpb.jpg"&gt;
+
+&lt;/head&gt;
+
+</t>
+<t tx="leo.20190614025319.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190614025319.2">## Week 12
+
+
+
+&lt;head&gt;
+
+&lt;img src="https://upload.cc/i1/2019/06/14/RgxXBA.jpg"&gt;
+
+&lt;/head&gt;
+
+</t>
+<t tx="leo.20190614025352.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190614025352.2">## Week 12
+
+
+
+&lt;head&gt;
+
+&lt;img src="https://upload.cc/i1/2019/06/14/rGPUoI.jpg"&gt;
+
+&lt;/head&gt;
+
+</t>
+<t tx="leo.20190614025403.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190614025403.2">## Week 12
+
+
+
+&lt;head&gt;
+
+&lt;img src="https://upload.cc/i1/2019/06/14/zuyGDA.jpg"&gt;
+
+&lt;/head&gt;
 
 </t>
 </tnodes>
