@@ -27,7 +27,52 @@
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20181008004541.1" a="E"><vh>第十週</vh>
+<v t="leo.20181008004541.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181008004541.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181108210748.1" a="E"><vh>第十一週</vh>
+<v t="leo.20181108210748.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181108210748.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181108210858.1" a="E"><vh>第十二週</vh>
+<v t="leo.20181108210858.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181108210858.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181108210903.1" a="E"><vh>第十三週</vh>
+<v t="leo.20181108210903.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181108210903.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181108210907.1" a="E"><vh>第十四週</vh>
+<v t="leo.20181108210907.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181108210907.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181108210926.1" a="E"><vh>第十五週</vh>
+<v t="leo.20181108210926.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181108210926.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181108210943.1" a="E"><vh>第十六週</vh>
+<v t="leo.20181108210943.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181108210943.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190613213147.1" a="E"><vh>第十七週</vh>
+<v t="leo.20190613213147.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20190613213147.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190613213150.1" a="E"><vh>第十八週</vh>
+<v t="leo.20190613213150.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20190613213150.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -36,41 +81,6 @@
 </v>
 <v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
-</v>
-</v>
-<v t="leo.20181008004541.1"><vh>第一週</vh>
-<v t="leo.20181008004541.2" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181008004541.3"><vh>內容</vh></v>
-</v>
-</v>
-<v t="leo.20181108210748.1"><vh>第二週</vh>
-<v t="leo.20181108210748.2" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181108210748.3"><vh>內容</vh></v>
-</v>
-</v>
-<v t="leo.20181108210858.1"><vh>第三週</vh>
-<v t="leo.20181108210858.2" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181108210858.3"><vh>內容</vh></v>
-</v>
-</v>
-<v t="leo.20181108210903.1"><vh>第四週</vh>
-<v t="leo.20181108210903.2" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181108210903.3"><vh>內容</vh></v>
-</v>
-</v>
-<v t="leo.20181108210907.1"><vh>第五週</vh>
-<v t="leo.20181108210907.2" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181108210907.3"><vh>內容</vh></v>
-</v>
-</v>
-<v t="leo.20181108210926.1"><vh>第六週</vh>
-<v t="leo.20181108210926.2" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181108210926.3"><vh>內容</vh></v>
-</v>
-</v>
-<v t="leo.20181108210943.1"><vh>第七週</vh>
-<v t="leo.20181108210943.2" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181108210943.3"><vh>內容</vh></v>
 </v>
 </v>
 </v>
@@ -159,17 +169,17 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 2019 協同產品設計實習
 
 ### 虎科大機械設計工程系
 
-### 40623240何冠均
+### 40623240何冠均 個人簡報
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40623240](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[個人倉儲](https://github.com/mdecadp2018/site-40623240)
 
 
 </t>
@@ -379,16 +389,17 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181008004541.3">### Week 1
+<t tx="leo.20181008004541.3"># Week 10
 
-* 內容
 
-在github帳號下，新增一個New repository
-名為 : 學號.github.io
 
-1.將自己新增的倉儲與老師的倉儲 clone 下來綁定帳號及用 SciTE 確認是否正確
+1.Onshape 實習任務三
 
-2.用 git status 查看所有檔案目前的狀況，之後再  git add . &gt; git commit -m "initial add " &gt;git push ，將剛剛新增的檔案推上去</t>
+2.進行組員分工
+
+3.修改網站內容
+
+</t>
 <t tx="leo.20181108210748.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -405,15 +416,16 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108210748.3">### Week 2
+<t tx="leo.20181108210748.3"># Week 11
 
-* 內容
-1.ShareX 設定路徑及麥克風 截圖及錄影的功能
-2.ShareX 截圖及錄影的功能Zoomit 可以利用 Ctrl + 1 以 Zoomit 的功能放大螢幕，選擇畫面,，以畫筆標示重點，也可以結合 ShareX 的 Ctrl + PrintScreen  擷取圖片
-領取倉儲 :
-1. 先跟老師領取倉儲領取完畢後，就可以開始進行維護網誌
-2. 將內定 branch 設為 gh-pages
-3. 將作業倉儲 git clone 至近端後，在 Week9 前，自行掌握進度，每週拍攝操作實習影片，將教材內容與使用心得放入個人的網站、簡報與網誌中
+
+
+
+1.Onshape 實習任務三
+
+2.進行組員分工
+
+3.修改網站內容
 
 </t>
 <t tx="leo.20181108210858.1">&lt;section&gt;
@@ -432,11 +444,13 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108210858.3">### Week 3
+<t tx="leo.20181108210858.3"># Week 12
 
-* 內容
 
-烤肉哦</t>
+
+討論分工內容和組員更新網站
+
+</t>
 <t tx="leo.20181108210903.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -453,18 +467,17 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108210903.3">### Week 4
+<t tx="leo.20181108210903.3"># Week 13
 
-* 內容
 
-創一個onshape的帳號可以利用這個來繪圖完成簡單的繪圖步驟
-指令打cd tmp &gt; cd site &gt;  python wsgi,py
-將網址複製下來進入近端修改blog
 
-修改結束利用 git add .  &gt; git commit -m " 還有 git push 將修改後的東西更新上去
+1.和組員進行分工
 
-修改投影片以前有學過但是製作部落格第一次做但是過程類似所以比較簡單很快上手
-只是需要花時間去完成更新。</t>
+2.利用onshape畫圖
+
+[手足球工程圖以及完成品介紹](https://www.youtube.com/watch?v=I4Vlj24IVWc&amp;t=8s)
+
+</t>
 <t tx="leo.20181108210907.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -481,15 +494,15 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108210907.3">### Week 5
+<t tx="leo.20181108210907.3"># Week 14
 
-* 內容
 
- Design Intent is the practice of developing your project’s objectives and requirements even before working on your design.
-設計意圖指在設計進行前, 必須完成之專案目的與需求確認
 
-The more complex the geometry, the more we need to think about how we want to design the parts before just going ahead and making it.
-幾何外型越複雜, 越需要在零件設計之前做好設計意圖的確認</t>
+使用V-rep模擬手足球系統
+
+[V-rep 手足球定位以及基本介紹](https://www.youtube.com/watch?v=5e-PJiHBRFk)
+
+</t>
 <t tx="leo.20181108210926.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -506,11 +519,14 @@ The more complex the geometry, the more we need to think about how we want to de
 
 						
 </t>
-<t tx="leo.20181108210926.3">### Week 6
+<t tx="leo.20181108210926.3"># Week 15
 
-* 內容
 
-將倉儲中的 flaskapp.py 更新至最新版本</t>
+
+使用V-rep 進行手足球組合
+
+[手足球組合](https://www.youtube.com/watch?v=PEzSatdlIC4)
+</t>
 <t tx="leo.20181108210943.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -527,20 +543,57 @@ The more complex the geometry, the more we need to think about how we want to de
 
 						
 </t>
-<t tx="leo.20181108210943.3">### Week 7
+<t tx="leo.20181108210943.3"># Week 16
 
-* 內容
-上課前在登陸 Github 時，發現故障，無法使用，找出方法解決並探討問題
 
-影響範圍：
 
-僅影響存儲在我們的MySQL數據庫中的網站元數據，例如問題和拉取請求
- 存儲庫數據不受影響，並且在整個事件期間一直可用)
 
-因應處理：
+1.更新個人網站以及倉儲
 
-安裝 Fossil SCM  啟動 Fossil SCM
+2.更改個人投影片
 
-使用 Fossil SCM 伺服網頁</t>
+</t>
+<t tx="leo.20190613213147.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190613213147.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190613213147.3"># Week 17
+
+
+
+期末報告</t>
+<t tx="leo.20190613213150.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190613213150.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190613213150.3"># Week 18
+
+
+
+</t>
 </tnodes>
 </leo_file>
