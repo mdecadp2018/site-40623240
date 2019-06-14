@@ -595,7 +595,11 @@ make.start()
 
 
 
-期末報告</t>
+期末報告
+
+自評成績：65
+
+</t>
 <t tx="leo.20190613213150.1">&lt;section&gt;
 @others
 &lt;/section&gt;
